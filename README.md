@@ -1,6 +1,6 @@
 # Network-Packet-Transmission-Simulator
 
-- This project simulates the transmission of packets over a TCP network, focusing on packet formatting, sending, receiving, error handling, and logging.
+- This project simulates the transmission of packets over a network, focusing on packet formatting, sending, receiving, error handling, and logging.
 - It serves as an educational resource on the principles of network communication, error management, and socket programming in Python.
 - Two protocols have been implemented: sliding window and stop-and-go (or stop-and-wait) protocol
 
